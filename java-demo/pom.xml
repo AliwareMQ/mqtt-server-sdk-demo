@@ -16,7 +16,7 @@
         <dependency>
             <groupId>com.alibaba.mqtt</groupId>
             <artifactId>server-sdk</artifactId>
-            <version>1.0.4.Final</version>
+            <version>1.0.8.Final</version>
         </dependency>
     </dependencies>
 </project>
